@@ -3,11 +3,11 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=priyavaratsaini3" alt="priyavaratsaini3" /></a> </p>
 
-- 🌱 I’m currently learning **JavaScript, Python**
+- 🌱 I’m currently learning **Data Science, Python**
 
-- 💬 Ask me about **JavaScript**
+- 💬 Ask me about **Python, Sql**
 
-- 📫 How to reach me **priyavartsaini3@gmail.com**
+- 📫 How to reach me **priyavaratsaini@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
